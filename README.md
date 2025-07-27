@@ -11,4 +11,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_логин/PasswordGenerator-Python.git
+git clone https://github.com/AnNoem/PasswordGenerator-Python.git
