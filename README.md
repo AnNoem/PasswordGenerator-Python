@@ -13,11 +13,3 @@
 ```bash
 git clone https://github.com/ваш_логин/PasswordGenerator-Python.git
 cd PasswordGenerator-Python
-2. Запустите программу:
- python password_generator.py
- 
- Или используйте батник (Windows):
-Двойной клик по start_password_generator.bat
-
-
-
