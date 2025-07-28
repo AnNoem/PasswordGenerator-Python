@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+.coverage.*
+.cache
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.*.sw[op]
+.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Проектные файлы
+favorites_passwords.json
+*.log
+*.tmp
+*.temp
+
+# Дополнительно
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
